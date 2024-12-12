@@ -10,3 +10,20 @@ dist
 .coverage
 **/*.egg-info
 **/__pycache__
+# קבצי IDE
+*.code-workspace
+
+# קבצי קונפיגורציה
+pyproject.toml
+tox.ini
+README.md
+app.py
+laptop-price_processed.csv
+
+# תיקיות שאינן רלוונטיות
+src/package_name/
+tests/
+# קבצים זמניים
+*.log
+temp/
+
