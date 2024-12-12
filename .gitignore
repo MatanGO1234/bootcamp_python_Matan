@@ -1,0 +1,12 @@
+venv
+mypy_cache
+pytest_cache
+ruff_cache
+.tox
+build
+reports
+archive
+dist
+.coverage
+**/*.egg-info
+**/__pycache__
